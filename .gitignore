@@ -7,4 +7,6 @@
 /public/bundles/
 /var/
 /vendor/
+/.idea
+*.lock
 ###< symfony/framework-bundle ###
